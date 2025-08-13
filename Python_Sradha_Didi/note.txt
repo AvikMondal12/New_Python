@@ -1,0 +1,54 @@
+Why we used function ?
+=> In our programing when we used a same code more time that time it reduce the redundency of our program . By using function we recall that think more time .. like this ......
+
+
+def calSum (a,b,c):    // it is function
+
+  sum=(a+b+c)     // this line is for logic
+  print(sum)     // This line is for print the logic
+  return sum    // this line is for return our function
+
+calSum(2,4,3)     //Those line is responsible for calling our function  
+calSum(6,7,4)
+
+
+
+*** sep function = It make a gap autometically .
+
+
+
+
+
+** it is also a type to write function
+
+def cal_mul(a=2,b=2):
+  multi = a*b
+  print(multi)
+  return multi
+
+cal_mul(4,4)
+
+
+
+
+*** OOP 
+What is class ?
+=> Class is a blueprint for creating an object .
+
+
+*** If we do not write constractor that time python autometically create constractor foe us 
+
+
+***  what is Static Method ?
+=> It is type of Method that does not required any self parameter(Work at class level).
+
+
+*** What is Abstraction ?
+=> Abstraction means that Hinding .
+Hinding the implimentation details of a class and showing the essential features to the users .
+
+*** What is Encapsulation ?
+=> Warping data and function into a single unit(object)
+
+*** Privact in python 
+ just use this __
