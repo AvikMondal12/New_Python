@@ -1,4 +1,2 @@
-print("Next..\n")
-num = 10
-for i in range(10,0,-1):
-    print(i)
+print(list2[:3])
+print(list2)

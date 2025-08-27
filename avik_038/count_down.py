@@ -7,7 +7,7 @@ for i in range(0,num+1,+5):
 
 
 
-print("Next..\n")
-num = 10
+# print("Next..\n")
+# num = 10
 for i in range(10,0,-1):
     print(i)
